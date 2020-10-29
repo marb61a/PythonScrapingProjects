@@ -119,6 +119,12 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-challenges"
+    }
+  },
+  "defaultProject": "angular-challenges",
+  "schematics": {
+    "@schematics/angular:component": {
+      "style": "scss"
+    }
+  }
 }
