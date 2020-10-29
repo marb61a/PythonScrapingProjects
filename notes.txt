@@ -1,0 +1,7 @@
+Angular 
+    - Install cli  by using -> npm install -g @angular/cli
+    - Generate a new project -> ng new <app-name>
+    - CD into the app and then ng-serve to start
+    - Updating version of angular can be also done at the cli
+        - ng update @angular/core @angular/cli
+    - 
